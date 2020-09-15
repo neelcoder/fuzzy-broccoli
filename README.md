@@ -1,0 +1,7 @@
+                             Customer segmentation Through Rfm Analysis and managerial Segmentation
+                                      
+Objective:Customer segmentation is an important part of developing a successful business. Customers have different kinds of needs and, as the customer and transaction base grows, it becomes increasingly harder to understand the individual requirements of each one of them. At that point, you should be able to identify those differences and act on them. However, there are many ways to perform this segmentation. The one I  will be talking about today is called RFM.
+RFM is one of the most widely used techniques for selecting significant customers. It is a very popular customer segmentation technique that uses the customers’ past purchase behavior to divide them into different groups based on similarities.
+The name RFM stands for Recency, Frequency, and Monetary value. Recency (R) represents the number of days since the customer's last purchase; Frequency (F) represents the number of times the customer has purchased in the timeframe being analyzed; and, finally, Monetary (M) represents the total amount spent by the customer in the same period.
+
+Relevance to businesses: It empowers marketers to quickly identify and segment users into homogeneous groups and target them with differentiated and personalized marketing strategies. This in turn improves user engagement and retention.
